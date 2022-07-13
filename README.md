@@ -1,3 +1,7 @@
+# MyE-Cart 🛒
+
+# Here is my ECart frontend website created using Angular Framewok 🅰️💻
+
 # AddToCart
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
